@@ -16,7 +16,7 @@ public:
             if (pq.empty()) break;
             
             int y = pq.top(); pq.pop();
-            long long newValue = 2LL * x + y;
+            long long newValue = 2 * x + y;
             
             if (newValue < k) pq.push(static_cast<int>(newValue));
         }
