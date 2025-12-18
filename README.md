@@ -23,3 +23,19 @@ Interview Prep Tips: For problems that are particularly relevant for interviews,
 Feel free to explore, learn, and provide feedback! This repository serves as a tool not only for personal growth but also as a resource for anyone else preparing for coding interviews or looking to improve their problem-solving skills.
 
 This version highlights how consistent LeetCode practice is instrumental in improving technical skills, preparing for job interviews, and overall professional growth.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+<!---LeetCode Topics End-->
