@@ -42,4 +42,16 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
+## Array
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sorting
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
