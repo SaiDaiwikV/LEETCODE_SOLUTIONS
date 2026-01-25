@@ -38,4 +38,8 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
