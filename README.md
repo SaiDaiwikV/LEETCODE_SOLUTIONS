@@ -56,4 +56,16 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
