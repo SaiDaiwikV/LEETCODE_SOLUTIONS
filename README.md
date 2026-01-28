@@ -47,6 +47,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +69,12 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
