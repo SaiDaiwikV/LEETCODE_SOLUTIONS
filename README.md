@@ -121,4 +121,8 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
