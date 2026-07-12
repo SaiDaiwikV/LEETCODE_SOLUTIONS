@@ -48,6 +48,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -61,6 +62,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Graph Theory
 |  |
@@ -112,6 +114,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
