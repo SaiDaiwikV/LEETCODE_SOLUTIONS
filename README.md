@@ -64,6 +64,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | [1288-remove-covered-intervals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3536-maximum-product-of-two-digits](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Graph Theory
 |  |
 | ------- |
@@ -127,5 +128,6 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 ## Math
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
