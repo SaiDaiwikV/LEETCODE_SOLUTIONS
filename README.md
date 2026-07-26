@@ -45,6 +45,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1301-number-of-paths-with-max-score) |
@@ -60,6 +61,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -128,6 +130,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
