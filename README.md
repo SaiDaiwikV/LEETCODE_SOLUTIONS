@@ -55,6 +55,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3536-maximum-product-of-two-digits](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -122,6 +124,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Segment Tree
 |  |
 | ------- |
