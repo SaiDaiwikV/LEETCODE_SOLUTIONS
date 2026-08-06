@@ -137,6 +137,11 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
