@@ -35,6 +35,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -151,4 +152,8 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
