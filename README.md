@@ -56,6 +56,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3524-find-x-value-of-array-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -91,6 +92,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1301-number-of-paths-with-max-score) |
+| [3524-find-x-value-of-array-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
@@ -142,6 +144,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
