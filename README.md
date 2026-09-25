@@ -34,6 +34,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -68,6 +69,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +129,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -159,4 +162,16 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
