@@ -35,6 +35,7 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -170,8 +171,13 @@ This version highlights how consistent LeetCode practice is instrumental in impr
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiDaiwikV/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
